@@ -15,7 +15,7 @@
 <h4 align="center">Things got bugs, gonna smash them one by one</h4>
 
 <p align="center">
-<a href="https://dev.to/aayushidroid" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/dev-dot-to.svg" alt="codeperfectplus" height="40" width="40" /></a>
+<a href="https://dev.to/aayushidroid" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/dev-dot-to.svg" alt="aayushi-droid" height="40" width="40" /></a>
 </p>
 
 - 📝 I regulary write articles on [Aayushi's Blog](http://aayushi-droid.github.io/)
